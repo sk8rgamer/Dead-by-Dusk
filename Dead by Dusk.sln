@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2A85BFE1-7D20-4159-F8F0-609E99A834EF}") = "Dead by Dusk", "Assembly-CSharp.csproj", "{4F84F8BA-0B46-0C0E-A746-1747CD63FDD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F84F8BA-0B46-0C0E-A746-1747CD63FDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F84F8BA-0B46-0C0E-A746-1747CD63FDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F84F8BA-0B46-0C0E-A746-1747CD63FDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F84F8BA-0B46-0C0E-A746-1747CD63FDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
